@@ -1,6 +1,6 @@
 {
     "name": "binarybuilds/filament-cache-manager",
-    "description": "A filament package to clear cache keys",
+    "description": "Filament Cache Manager is a FilamentPHP plugin that allows you to easily clear your Laravel application cache directly from the Filament admin panel.",
     "keywords": [
         "binarybuilds", "laravel", "cache", "artisan", "filament"
     ],
